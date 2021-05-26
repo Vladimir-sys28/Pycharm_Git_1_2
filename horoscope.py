@@ -193,5 +193,6 @@ else:
             aries_m = list(zip(nums_a_m, my_ma))
             item = my_list_ar
             if (item in aries_m):
-                print(" Pisces")
+                print(" Pisces"
+   # Code definition horoscope for day and month birthday
 
