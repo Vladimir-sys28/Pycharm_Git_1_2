@@ -6,3 +6,4 @@ if (s % 2) == 0:
 else:
     print((my_word[int(len(my_word)/2)]))
 # task not work
+# работа в гитхабе
