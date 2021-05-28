@@ -197,4 +197,4 @@ else:
 # Code definition horoscope for day and month birthday
 # I clean up my code from problems: remove redundant parentheses
 # I try to commit this code in new pycharm
-
+# New commit
