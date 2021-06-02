@@ -7,3 +7,4 @@ else:
     print((my_word[int(len(my_word)/2)]))
 # task not work
 # работа в гитхабе
+# export this code in pycharm from GitHub profile Vladimir-sys28
